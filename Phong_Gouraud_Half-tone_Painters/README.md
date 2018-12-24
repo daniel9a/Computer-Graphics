@@ -9,12 +9,15 @@ Name: Daniel Andrade
 ### Overview
 
 **Output**
+
 ![Output](imgs/Proj3(3).png)
 
 **Halftone**
+
 ![Halftone](imgs/Proj3(Halftone).png)
 
 **Phong**
+
 ![Phong](imgs/Proj3(Phong).png)
 
 A maximum of 5 shapes may be displayed. All of the variables in the **Phong** equation are editable via textfile (test.txt) or menu
