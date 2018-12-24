@@ -1,5 +1,4 @@
 # Computer Graphics
----
 
 Computer Graphics Course Projects
 All Projects implemented using **C++** with some **OpenGL** functions
